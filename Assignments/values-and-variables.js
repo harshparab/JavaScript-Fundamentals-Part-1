@@ -6,7 +6,7 @@ assign their values according to your own country (population in millions)
 
 let country = "India";
 let continent = "Asia";
-let population = "1380";
+let population = 1380;
 
 console.log(country);
 console.log(continent);

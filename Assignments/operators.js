@@ -13,7 +13,7 @@ people speak portuguese'
 
 const country = "India";
 let continent = "Asia";
-let population = "1380";
+let population = 1380;
 const language = "Hindi";
 
 const halfPopulation = population/2;

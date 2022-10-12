@@ -8,7 +8,7 @@ to the console
 
 let country = "India";
 let continent = "Asia";
-let population = "1380";
+let population = 1380;
 let isIsland = false;
 let language;
 

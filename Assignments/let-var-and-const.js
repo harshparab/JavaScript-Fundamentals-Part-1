@@ -8,5 +8,5 @@ change, and which might change?). Then, change these variables to const.
 
 const country = "India";
 const continent = "Asia";
-let population = "1380";
+let population = 1380;
 const language = "Hindi";
